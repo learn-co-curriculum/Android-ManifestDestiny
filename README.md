@@ -1,7 +1,4 @@
----
-  tags: Manifest, XML
-  languages: java
----
+
 
 Android-ManifestDestiny
 =======================
