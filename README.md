@@ -196,3 +196,5 @@ public class ManifestDestinyActivity extends Activity {
 
 - [Android Developer Docs](http://developer.android.com/guide/topics/manifest/manifest-intro.html)
 - [Intents and Intent Filters](http://developer.android.com/guide/components/intents-filters.html)
+
+<a href='https://learn.co/lessons/Android-ManifestDestiny' data-visibility='hidden'>View this lesson on Learn.co</a>
